@@ -27,3 +27,10 @@ def perimeter(a, b, c):
         
     """
     return a + b + c
+
+# a = int(input())
+# h = int(input())
+# b = int(input())
+# c = int(input())
+# print("area:", area(a, h))
+# print("perimeter:" , perimeter(a, b, c))

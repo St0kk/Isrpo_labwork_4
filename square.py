@@ -24,3 +24,7 @@ def perimeter(a):
 
     """
     return 4 * a
+
+# a = int(input())
+# print("area:", area(a))
+# print("perimeter:" , perimeter(a))

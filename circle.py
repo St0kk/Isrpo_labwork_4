@@ -27,3 +27,7 @@ def perimeter(r):
 
     """
     return 2 * math.pi * r
+
+# r = int(input())
+# print("area:", area(r))
+# print("perimeter:" , perimeter(r))
