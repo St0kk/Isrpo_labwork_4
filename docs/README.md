@@ -116,10 +116,12 @@ area(3.0, 4.0) #Возвращает 6.0
 perimeter(3.0 , 4.0, 5.0) #Возвращает 12.0
 
 ## История изменения проекта
+- `d8f1107` - Added unit tests
 - `362b7eb` - mistake fixed in rectangle.py
 - `3b1283d` - Added rectangle.py
 - `d078c8d` - Docs added
 - `8ba9aeb` - Circle and square added
+
 
 
 
